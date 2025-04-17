@@ -1,3 +1,2 @@
 # SiliconValley
 
-SHADER CANCELLA QUESTA RIGA
